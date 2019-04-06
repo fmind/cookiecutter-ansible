@@ -1,0 +1,1 @@
+- src: {{cookiecutter.user}}.{{cookiecutter.name}}
