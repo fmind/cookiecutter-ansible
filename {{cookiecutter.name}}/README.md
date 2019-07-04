@@ -5,5 +5,5 @@
     - hosts: localhost
 
       roles:
-         - { role: {{cookiecutter.user}}.{{cookiecutter.name}} }
+         - {role: {{cookiecutter.user}}.{{cookiecutter.name}}}
 ```
